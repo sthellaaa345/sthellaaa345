@@ -1,6 +1,8 @@
 <p align="center">Apaixonada por tecnologia e desenvolvimento web! 💻✨ <br><br>  
-Sou uma desenvolvedora focada na criação de <strong>interfaces modernas e responsivas</strong>, combinando <strong>HTML, CSS e JavaScript</strong> para oferecer a melhor experiência ao usuário. Trabalho no <strong>Visual Studio Code</strong> e sou entusiasta de boas práticas de design, sempre buscando unir estética e funcionalidade nos meus projetos. 🚀</p>  
-&nbsp;
+Sou uma desenvolvedora focada na criação de <strong>interfaces modernas e responsivas</strong>, combinando <strong>HTML, CSS e JavaScript</strong> para oferecer a melhor experiência ao usuário. Trabalho no <strong>Visual Studio Code</strong> e sou entusiasta de boas práticas de design, sempre buscando unir estética e funcionalidade nos meus projetos. 🚀 <br><br>  
+Além do desenvolvimento web, tenho conhecimentos em <strong>redes</strong>, o que me permite entender melhor a estrutura e o funcionamento da internet e servidores. 🌐</p>  
+
+
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sthellaabreu&theme=dracula&mode=weekly" />
