@@ -1,5 +1,5 @@
 <p align="center">Apaixonada por tecnologia e desenvolvimento web! 💻✨ <br><br>  
-Sou uma desenvolvedora focada na criação de <strong>interfaces modernas e responsivas</strong>, combinando <strong>HTML, CSS e JavaScript</strong> para oferecer a melhor experiência ao usuário. Trabalho no <strong>Visual Studio Code</strong> e sou entusiasta de boas práticas de design, sempre buscando unir estética e funcionalidade nos meus projetos. 🚀 <br><br>  
+Me dedico à criação de <strong>interfaces modernas e responsivas</strong>, combinando <strong>HTML, CSS e JavaScript</strong> para oferecer a melhor experiência ao usuário. Sou entusiasta de boas práticas de design, sempre buscando unir estética e funcionalidade nos meus projetos. 🚀 <br><br>  
 Além do desenvolvimento web, tenho conhecimentos em <strong>redes</strong>, o que me permite entender melhor a estrutura e o funcionamento da internet e servidores. 🌐</p>  
 
 
