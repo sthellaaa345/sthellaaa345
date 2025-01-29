@@ -1,8 +1,10 @@
-<p align="center">Eu amo desenvolver soluções web inovadoras. <br><br> Como desenvolvedor web iniciante, me dedico à criação de sites, landing pages e blogs, utilizando <strong>HTML, CSS e JavaScript</strong>. Sou <strong>entusiasta de boas práticas de design</strong> e busco entregar interfaces intuitivas e funcionais, combinando criatividade e eficiência em cada projeto.</p>&nbsp;
+<p align="center">Apaixonada por tecnologia e desenvolvimento web! 💻✨ <br><br>  
+Sou uma desenvolvedora focada na criação de <strong>interfaces modernas e responsivas</strong>, combinando <strong>HTML, CSS e JavaScript</strong> para oferecer a melhor experiência ao usuário. Trabalho no <strong>Visual Studio Code</strong> e sou entusiasta de boas práticas de design, sempre buscando unir estética e funcionalidade nos meus projetos. 🚀</p>  
+&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sthellaaa345&theme=dracula&mode=weekly" />
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthellaaa345&show_icons=true&theme=dracula&layout=compact" />
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sthellaabreu&theme=dracula&mode=weekly" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthellaabreu&show_icons=true&theme=dracula&layout=compact" />
 </div>
  
 &nbsp;
